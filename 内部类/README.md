@@ -48,5 +48,4 @@
   		}
   ```
 
-- 4.3 开发中局部内部类的使用  见《InnerClassTest1.java》
 
