@@ -139,5 +139,5 @@ public class ThreadPool {
 
 # 2.线程的同步周期
 
-![image-20201101170102394](C:\Users\洪桂煌\AppData\Roaming\Typora\typora-user-images\image-20201101170102394.png)
+![image-20201101170102394](C:\Users\洪桂煌\Desktop\image-20201101170102394.png)
 
